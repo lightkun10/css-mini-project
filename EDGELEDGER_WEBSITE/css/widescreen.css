@@ -1,0 +1,22 @@
+/* Align icon to left */
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Icon position */
+#what .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+#contact .map {
+  width: 30%;
+  display: inline-block;
+  flex: 2;
+}
+
+#main-footer {
+  max-width: 100%;
+}
