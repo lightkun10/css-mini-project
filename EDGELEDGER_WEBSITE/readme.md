@@ -1,1 +1,1 @@
-* Build a class that do certain things, to use it over and over again.
+* A mockup website for Financial Corporation.
