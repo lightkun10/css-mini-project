@@ -1,1 +1,1 @@
-* A mockup website for Financial Corporation.
+* A mockup website for a Financial Corporation called Edgeledger.
